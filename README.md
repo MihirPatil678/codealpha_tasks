@@ -7,15 +7,7 @@ Each project is organized in its own folder with source code and executable file
 
 ## 📂 Projects Included
 
-### 🔹 1️⃣ CodeAlpha_Banking_System
-A console-based mini banking system that allows users to:
-- Create and manage accounts
-- Deposit and withdraw money
-- Check balance
-
----
-
-### 🔹 2️⃣ CodeAlpha_Calculator_Program
+### 🔹 1️⃣ CodeAlpha_Calculator_Program
 A simple C calculator that performs:
 - Addition
 - Subtraction
@@ -24,7 +16,7 @@ A simple C calculator that performs:
 
 ---
 
-### 🔹 3️⃣ CodeAlpha_Matrix_Operations
+### 🔹 2️⃣ CodeAlpha_Matrix_Operations
 Program to perform basic matrix operations like:
 - Matrix addition
 - Matrix subtraction
@@ -32,11 +24,19 @@ Program to perform basic matrix operations like:
 
 ---
 
-### 🔹 4️⃣ CodeAlpha_Student_Management_System
+### 🔹 3️⃣ CodeAlpha_Student_Management_System
 A mini project to manage student records including:
 - Adding student details
 - Viewing records
 - Managing data
+
+---
+
+### 🔹 4️⃣ CodeAlpha_Banking_System
+A console-based mini banking system that allows users to:
+- Create and manage accounts
+- Deposit and withdraw money
+- Check balance
 
 ---
 
